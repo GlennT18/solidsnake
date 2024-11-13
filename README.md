@@ -1,5 +1,7 @@
 !SolidSnake!
 
+***Pip install colorist***
+
 This is just a CLI game that I made in my free time
 There are multiple levels that the user can play(1-3)
 Controls:
